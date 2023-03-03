@@ -18,6 +18,10 @@
 //     }
 // }
 
+
+/* In this code we have write a string and then check the given string is palindrom or not. 
+Palindrom string is a string that are same after reversing it for example malayalam,  iti etc*/
+
 public class Palindrom1{
     public static void main(String[] args){
     String a="malayalam";
